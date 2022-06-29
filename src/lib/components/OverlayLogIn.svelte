@@ -1,7 +1,6 @@
 <script>
 	import { LogIn } from '../../stores/LogIn'
 	import { fade } from 'svelte/transition'
-	let close = ""
 </script>
 
 <div
