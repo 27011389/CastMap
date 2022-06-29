@@ -2,10 +2,8 @@
 	<div class="flex flex-col mx-auto max-w-7xl">
 		<div class="flex justify-between py-20 space-x-44">
 			<div class="flex flex-col w-1/4 space-y-7">
-				<p class="leading-9">
-					Thank you for looking out for the local wildlife.
-				</p>
-				<button class="primary w-fit">Ask Question</button>
+				<p class="leading-9">Thank you for looking out for the local wildlife.</p>
+				<button class="mt-12 w-fit px-9 py-[18px]">Ask Question</button>
 			</div>
 			<div class="flex w-3/4 space-x-12">
 				<div class="flex w-1/2 space-x-12">
